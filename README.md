@@ -47,20 +47,11 @@ Choose matching Minecraft versions and loaders for all dependencies. LazoDiscs i
 
 Experimental playback on Sable / Create Aeronautics moving platforms can be enabled in the server configuration. It is disabled by default and requires a compatible version of the platform mod.
 
-## Supported builds
+## Downloads
 
-LazoBoombox **0.1.4** provides the following builds, based on the stable Plasmo Voice **2.1.17** compatibility list. Download the file for your exact Minecraft version and loader, together with the matching LazoDiscs build.
+Choose the file for your exact Minecraft version and loader. Use the matching LazoDiscs and Plasmo Voice builds listed with that file.
 
-| Minecraft | Fabric | Forge | NeoForge |
-| --- | :---: | :---: | :---: |
-| 1.16.5, 1.17.1, 1.18.2 | ✓ | ✓ | — |
-| 1.19, 1.19.1, 1.19.2, 1.19.3, 1.19.4 | ✓ | ✓ | — |
-| 1.20, 1.20.1, 1.20.2, 1.20.3, 1.20.4 | ✓ | ✓ | — |
-| 1.21, 1.21.1 | ✓ | ✓ | ✓ |
-| 1.21.4, 1.21.6, 1.21.7, 1.21.8, 1.21.11 | ✓ | — | ✓ |
-| 26.1, 26.1.1, 26.1.2, 26.2, 26.3 | ✓ | — | ✓ |
-
-[Modrinth](https://modrinth.com/mod/lazoboombox) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazoboombox) · [GitHub releases](https://github.com/EyeCrasher07/LazoBoombox/releases) · [Report a bug](https://github.com/EyeCrasher07/LazoBoombox/issues)
+[Modrinth](https://modrinth.com/mod/lazoboombox/versions) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazoboombox/files) · [GitHub releases](https://github.com/eyecrasher0/LazoBoombox/releases) · [Report a bug](https://github.com/eyecrasher0/LazoBoombox/issues)
 
 ---
 
@@ -111,17 +102,8 @@ LazoBoombox **0.1.4** provides the following builds, based on the stable Plasmo 
 
 Экспериментальное воспроизведение на движущихся платформах Sable / Create Aeronautics включается в конфиге сервера. По умолчанию оно отключено; для него нужна совместимая версия мода платформ.
 
-### Поддерживаемые сборки
+### Загрузки
 
-В LazoBoombox **0.1.4** доступны следующие сборки по списку совместимости стабильного Plasmo Voice **2.1.17**. Выбирай файл для своей точной версии Minecraft и загрузчика вместе с подходящей сборкой LazoDiscs.
+Выбери файл под точную версию Minecraft и загрузчик. Установи подходящие версии LazoDiscs и Plasmo Voice, указанные в описании файла.
 
-| Minecraft | Fabric | Forge | NeoForge |
-| --- | :---: | :---: | :---: |
-| 1.16.5, 1.17.1, 1.18.2 | ✓ | ✓ | — |
-| 1.19, 1.19.1, 1.19.2, 1.19.3, 1.19.4 | ✓ | ✓ | — |
-| 1.20, 1.20.1, 1.20.2, 1.20.3, 1.20.4 | ✓ | ✓ | — |
-| 1.21, 1.21.1 | ✓ | ✓ | ✓ |
-| 1.21.4, 1.21.6, 1.21.7, 1.21.8, 1.21.11 | ✓ | — | ✓ |
-| 26.1, 26.1.1, 26.1.2, 26.2, 26.3 | ✓ | — | ✓ |
-
-[Modrinth](https://modrinth.com/mod/lazoboombox) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazoboombox) · [Релизы GitHub](https://github.com/EyeCrasher07/LazoBoombox/releases) · [Сообщить об ошибке](https://github.com/EyeCrasher07/LazoBoombox/issues)
+[Modrinth](https://modrinth.com/mod/lazoboombox/versions) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazoboombox/files) · [Релизы GitHub](https://github.com/eyecrasher0/LazoBoombox/releases) · [Сообщить об ошибке](https://github.com/eyecrasher0/LazoBoombox/issues)
